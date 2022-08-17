@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cw7</string>
+    <string name="product_image">Product Image</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_description">Product description</string>
+    <string name="price">Price</string>
+</resources>
